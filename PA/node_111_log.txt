@@ -1,0 +1,2 @@
+2024-11-04 17:13:27.828034 - Node 111 initialized with neighbors: ['011', '101', '110']
+2024-11-04 17:13:27.830407 - Node 111 listening on port 5007

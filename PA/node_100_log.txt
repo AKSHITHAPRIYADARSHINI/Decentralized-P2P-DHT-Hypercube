@@ -1,0 +1,2 @@
+2024-11-04 17:13:27.823352 - Node 100 initialized with neighbors: ['000', '110', '101']
+2024-11-04 17:13:27.830535 - Node 100 listening on port 5004
